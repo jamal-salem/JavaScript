@@ -109,4 +109,15 @@ Computer Engineer
 Open-source for educational purposes.
 
 
+---
+
+## 🎬 Demo Preview
+
+<div align="center">
+  <img src="./demo_pro.gif" width="650"/>
+</div>
+
+---
+
+
 
