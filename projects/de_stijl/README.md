@@ -1,20 +1,20 @@
-# 🎨 De Stijl Artwork – p5.js
+#  De Stijl Artwork – p5.js
 
-## 📌 Overview
+##  Overview
 This project recreates a minimalist geometric artwork inspired by the **De Stijl** art movement using p5.js.
 
 The design uses structured rectangles, bold black lines, and primary colors.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - JavaScript
 - p5.js
 - HTML5 Canvas
 
 ---
 
-## 🧠 Concepts Practiced
+##  Concepts Practiced
 - Canvas creation
 - Coordinate positioning
 - Stroke and fill styling
@@ -23,7 +23,7 @@ The design uses structured rectangles, bold black lines, and primary colors.
 
 ---
 
-## 🖼 Artwork Logic
+##  Artwork Logic
 
 The sketch:
 
@@ -34,7 +34,7 @@ The sketch:
 
 ---
 
-## 💻 Core Code
+##  Core Code
 
 ```javascript
 function setup() {
