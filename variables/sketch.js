@@ -33,9 +33,18 @@ function draw()
     //cloud
     noStroke();
     fill(255);
-    ellipse(cloudPos_x,50,50 * cloudScale,50 * cloudScale);
-    ellipse(cloudPos_x + 30 * cloudScale,50,30 * cloudScale,30 * cloudScale);
-    ellipse(cloudPos_x + 50 * cloudScale,50,20 * cloudScale,20 * cloudScale);
+    ellipse(cloudPos_x, // x position
+            50, //y position
+            50 * cloudScale,
+            50 * cloudScale);
+    ellipse(cloudPos_x + 30 * cloudScale,
+            50,
+            30 * cloudScale,
+            30 * cloudScale);
+    ellipse(cloudPos_x + 50 * cloudScale,
+            50,
+            20 * cloudScale,
+            20 * cloudScale);
     
     //ground
     fill(200,130,0);
@@ -43,5 +52,3 @@ function draw()
     
 
 }
-
-
